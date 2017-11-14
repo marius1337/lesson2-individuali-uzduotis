@@ -1,0 +1,33 @@
+#menu {
+    text-align: center;
+}
+
+.blue {
+    background-color: aqua;
+}
+
+.red    {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/*#menu {*/
+    /*text-align: center;*/
+/*}*/
+
+/*.menu {*/
+    /*text-align: center;*/
+/*}*/
+
+/*a {*/
+   /*text-decoration: none;*/
+    /*padding: 10px;*/
+/*}*/
